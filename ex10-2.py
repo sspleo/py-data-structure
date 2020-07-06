@@ -21,4 +21,4 @@ t = list(dd.items())
 t.sort()
 for (h, cnt) in t:
     print(h, cnt)
-#print(sorted([(k,v) for k,v in dd.items()]))
+
